@@ -1,3 +1,3 @@
  # Proyecto 6DWS
 
-**Nombre y apellidos:** Reina García
+**Nombre y apellidos:** Reina gumucio
