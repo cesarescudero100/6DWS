@@ -1,4 +1,9 @@
 
+"Guerra y paz" de Tolstoi
+"Crimen y Castigo" de Dostoievski
+"Fortunata y Jacinta" de Benito Pérez Galdós
+=======
+
 El Príncipe 
 
 Meditaciones 
@@ -14,4 +19,5 @@ It
 La Chica del Lago
 Cuando el Viento Hable
 La Asistenta
+
 
